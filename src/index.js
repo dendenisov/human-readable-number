@@ -1,5 +1,4 @@
 module.exports = function toReadable (number) {
-<<<<<<< HEAD
     console.log(number);
     let units = [
             "zero",
@@ -77,7 +76,7 @@ module.exports = function toReadable (number) {
             return (
                 units[Number(numberArray[0])] +
                 " hundred " +
-                units[Number(numberArr[2])]
+                units[Number(numberArray[2])]
             );
         } else {
             return (
