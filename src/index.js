@@ -1,4 +1,5 @@
 module.exports = function toReadable (number) {
+<<<<<<< HEAD
     console.log(number);
     let units = [
             "zero",
